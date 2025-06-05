@@ -1,9 +1,9 @@
-## Howdy 🤠
-I'm Justin, my day job is a fullstack software developer. When not doing that I dabble with the projects below:
+### Howdy 🤠
+I'm Justin! I work as a fullstack software developer. When not doing that I dabble with the projects below:
 
-### web apps
+#### web apps
 🤖 The Artificial News
 
-### web games
+#### web games
 👾 Alien Skull Harvester 2
 
